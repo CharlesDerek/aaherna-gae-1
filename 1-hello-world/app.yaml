@@ -14,3 +14,17 @@ resources:
   cpu: 1
   memory_gb: 0.5
   disk_size_gb: 10
+
+
+handlers:
+
+- url: /(.+)
+  script: (\1).php
+
+- url: /(.php)
+  static_files: (\1)
+  upload: (\1)
+  
+# Original
+# - url: /(.+)
+#   script: (\1).php
