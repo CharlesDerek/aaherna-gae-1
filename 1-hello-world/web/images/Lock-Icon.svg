@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Lock Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-689.000000, -314.000000)">
+            <g id="Lock-Icon" transform="translate(689.000000, 314.000000)">
+                <circle id="Base" fill="#F44A66" cx="31.5" cy="31.5" r="31.5"></circle>
+                <path d="M39,43 L24,43 C22.3431458,43 21,41.6568542 21,40 L21,28 C21,26.3431458 22.3431458,25 24,25 L25.5,25 C25.5,21.6862915 28.1862915,19 31.5,19 C34.8137085,19 37.5,21.6862915 37.5,25 L39,25 C40.6568542,25 42,26.3431458 42,28 L42,40 C42,41.6568542 40.6568542,43 39,43 L39,43 L39,43 Z M31.5,22 C29.8431458,22 28.5,23.3431458 28.5,25 L34.5,25 C34.5,23.3431458 33.1568542,22 31.5,22 L31.5,22 L31.5,22 Z M39,28 L24,28 L24,40 L39,40 L39,28 L39,28 L39,28 Z M31.5,31 C33.1568542,31 34.5,32.3431458 34.5,34 C34.5,35.6568542 33.1568542,37 31.5,37 C29.8431458,37 28.5,35.6568542 28.5,34 C28.5,32.3431458 29.8431458,31 31.5,31 L31.5,31 L31.5,31 Z" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

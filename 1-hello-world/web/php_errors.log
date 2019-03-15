@@ -1,0 +1,269 @@
+[05-Mar-2019 23:08:12 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:08:12 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:09:03 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:09:03 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:33:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:33:00 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:33:00 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:33:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:33:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:33:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:33:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:33:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:33:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:33:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:33:28 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:33:28 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:33:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:33:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:33:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:33:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:33:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:33:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:34:31 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:34:31 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:34:31 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:34:31 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:34:31 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:34:31 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:34:31 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:34:31 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:34:31 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:34:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:34:34 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:34:34 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:34:34 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:34:34 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:34:34 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:34:34 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:34:34 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:34:34 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:34:34 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:34:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:35:13 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:35:13 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:35:13 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:35:13 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:35:13 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:35:13 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:35:13 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:35:13 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:35:13 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:37:01 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:01 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:01 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:01 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:37:01 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:37:01 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:37:01 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:37:01 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:37:01 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:37:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:37:54 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:54 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:54 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:54 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:37:54 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:37:54 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:37:54 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:37:54 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:37:54 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:37:56 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:56 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:56 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:37:56 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:37:56 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:37:56 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:37:56 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:37:56 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:37:56 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:38:38 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:38:38 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:38:38 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:38:38 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:38:38 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:38:38 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:38:38 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:38:38 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:38:38 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:38:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 15
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 19
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 23
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 27
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 31
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 35
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 39
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 43
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 56
+[05-Mar-2019 23:39:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 76
+[05-Mar-2019 23:45:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 2
+[05-Mar-2019 23:45:00 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 2
+[05-Mar-2019 23:45:00 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 2
+[05-Mar-2019 23:45:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:45:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:45:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 16
+[05-Mar-2019 23:45:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:45:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 34
+[05-Mar-2019 23:45:00 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 61
+[05-Mar-2019 23:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:65
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 65
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 15
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 19
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 23
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 27
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 31
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 35
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 39
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 43
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 56
+[05-Mar-2019 23:55:42 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 76
+[05-Mar-2019 23:56:21 UTC] PHP Warning:  include(/includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:21 UTC] PHP Warning:  include(): Failed opening '/includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:21 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:56:21 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:56:21 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:56:21 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:56:21 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:56:21 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:56:28 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:28 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:56:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:56:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:56:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:56:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:56:28 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:56:30 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:30 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:56:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:56:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:56:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:56:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:56:30 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:56:36 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:36 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:36 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:56:36 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:56:36 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:56:36 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:56:36 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:56:36 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:56:50 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:50 UTC] PHP Warning:  include(includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:50 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 1
+[05-Mar-2019 23:56:50 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 13
+[05-Mar-2019 23:56:50 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 14
+[05-Mar-2019 23:56:50 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 15
+[05-Mar-2019 23:56:50 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 32
+[05-Mar-2019 23:56:50 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 33
+[05-Mar-2019 23:56:50 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/header.php on line 60
+[05-Mar-2019 23:56:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 64
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 15
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 19
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 23
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 27
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 31
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 35
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 39
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 43
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 56
+[05-Mar-2019 23:56:57 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 76
+[05-Mar-2019 23:57:16 UTC] PHP Warning:  include(/includes/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/includes/header.php on line 2
+[05-Mar-2019 23:57:16 UTC] PHP Warning:  include(): Failed opening '/includes/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/includes/header.php on line 2
+[05-Mar-2019 23:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navBar() in /home/ubuntu/workspace/includes/header.php:65
+Stack trace:
+#0 /home/ubuntu/workspace/blog/index.php(1): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/includes/header.php on line 65
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 15
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 19
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 23
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 27
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 31
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 35
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 39
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 43
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 56
+[05-Mar-2019 23:57:48 UTC] PHP Notice:  Undefined variable: pathLevel in /home/ubuntu/workspace/includes/functions.php on line 76
+[06-Mar-2019 00:01:52 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ubuntu/workspace/includes/header.php on line 1
+[06-Mar-2019 00:09:01 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ubuntu/workspace/blog/includes/header.php on line 1

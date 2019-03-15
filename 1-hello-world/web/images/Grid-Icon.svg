@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Grid Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-685.000000, -514.000000)" fill="#333333">
+            <path d="M694,523 L701,523 L701,530 L694,530 L694,523 Z M685,523 L692,523 L692,530 L685,530 L685,523 Z M694,514 L701,514 L701,521 L694,521 L694,514 Z M685,514 L692,514 L692,521 L685,521 L685,514 Z" id="Grid-Icon"></path>
+        </g>
+    </g>
+</svg>
