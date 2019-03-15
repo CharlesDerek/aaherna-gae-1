@@ -18,12 +18,8 @@ resources:
 
 handlers:
 
-- url: /(.+)
-  script: (\1).php
-
-- url: /(.php)
-  static_files: (\1)
-  upload: (\1)
+- url: /.*
+  script: mod_rewrite.php
   
 # Original
 # - url: /(.+)
